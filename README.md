@@ -1,6 +1,6 @@
 # UI-UX_travel_app
-A visually appealing UI/UX website built with the latest react framework Next.js complimented with Tailwind css
+A VISUALLY APPEALING UI/UX MODERN WEBSITE BUILT WITH THE LATEST REACT FRAMEWORK - NEXT.JS, COMPLIMENTED WITH TAILWIND CSS.
 
 ## Live Demo
-view live [here](ui-ux-travel-app-olive.vercel.app/)).
+VIEW LIVE LINK [here](https://ui-ux-travel-app-olive.vercel.app/)).
 
